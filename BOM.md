@@ -20,7 +20,7 @@
 | [Keycaps](https://pl.aliexpress.com/item/1005012831355902.html?spm=a2g0o.productlist.main.38.52376e3dqjQiO6&algo_pvid=f06fffcc-2fca-4f52-b320-32fd5af7a871&algo_exp_id=f06fffcc-2fca-4f52-b320-32fd5af7a871-37&pdp_ext_f=%7B%22order%22%3A%2252%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%2143.89%2143.89%21%21%2110.98%2110.98%21%40210396b417917726332585232e0f5f%2112000059495762738%21sea%21PL%211863951917%21X%211%210%21n_tag%3A-29919%3Bd%3A9b4802d9%3Bm03_new_user%3A-29895&curPageLogUid=bYA3MFXC7eRx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012831355902%7C_p_origin_prod%3A) | For Buttons (Already have some spare) | 2 | $0.20 | $0.40 | [Aliexpress](https://pl.aliexpress.com/item/1005012831355902.html?spm=a2g0o.productlist.main.38.52376e3dqjQiO6&algo_pvid=f06fffcc-2fca-4f52-b320-32fd5af7a871&algo_exp_id=f06fffcc-2fca-4f52-b320-32fd5af7a871-37&pdp_ext_f=%7B%22order%22%3A%2252%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%2143.89%2143.89%21%21%2110.98%2110.98%21%40210396b417917726332585232e0f5f%2112000059495762738%21sea%21PL%211863951917%21X%211%210%21n_tag%3A-29919%3Bd%3A9b4802d9%3Bm03_new_user%3A-29895&curPageLogUid=bYA3MFXC7eRx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012831355902%7C_p_origin_prod%3A) |
 | [10k Resistor](https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html) | resisting duh | 1 | $0.08 | $0.08 | [Botland](https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html) |
 | **Parts subtotal** | — | — | — | **$15.40** | — |
-| **Tax & shipping** | — | — | — | **$12.00** | — |
-| **Total** | — | — | — | **$27.40** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$15.40** | — |
 
-$2.60 left of the tier's funding.
+$14.60 left of the tier's funding.
