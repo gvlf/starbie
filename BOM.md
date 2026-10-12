@@ -21,7 +21,7 @@
 | [10k Resistor](https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html) | resisting duh | 1 | $0.08 | $0.08 | [Botland](https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html) |
 | [PCB](https://jlcpcb.com) | Base | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$25.40** | — |
-| **Tax & shipping** | — | — | — | **$4.00** | — |
-| **Total** | — | — | — | **$29.40** | — |
+| **Tax & shipping** | — | — | — | **$3.45** | — |
+| **Total** | — | — | — | **$28.85** | — |
 
-$0.60 left of the tier's funding.
+$1.15 left of the tier's funding.
