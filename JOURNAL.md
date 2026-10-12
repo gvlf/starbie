@@ -44,6 +44,6 @@ So I started where I previously stopped/gave up - making traces. Somehow this ti
 
 ![annotate-2026-10-12_02-44-05](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Gu8piBX4CT4sqHxfwgso3j7kUqXHAT5v/47cfa608ded54757d59731a1070fb31ec964c3973c3e2d2b2118b991b5e9f095.png)
 
-Now It's the last stretch and for the last hour Ill tinker with the software :)
+Now It's the last stretch and for the last hour Ill make the github repo so it will stop screaming at me
 
 [Timelapse](https://lookout.hackclub.com/api/media/79126bc1-81bc-4406-8e9b-368917253eab/video.mp4)
